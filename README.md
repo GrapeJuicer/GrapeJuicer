@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 ## GrapeJuice / ぶどうじゅーす 🍇 (id: GrapeJuicer)
-Hi, I'm GrapeJuice, former [NITNC](https://www.nagano-nct.ac.jp/) student.
+Hi, I'm GrapeJuice, just worker.
 <p align="left"> 
   <a href="https://github.com/GrapeJuicer/GrapeJuicer/">
     <img src="https://komarev.com/ghpvc/?username=GrapeJuicer" alt="GrapeJuicer" />
