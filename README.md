@@ -35,6 +35,7 @@ Hi, I'm GrapeJuice, just worker.
 ## Languages & tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>](https://www.cprogramming.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>](https://isocpp.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>]([https://www.cprogramming.com/](https://dotnet.microsoft.com/en-us/languages/csharp))
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>](https://www.python.org)
 [<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/>](https://www.blender.org/)
 [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/>](https://flask.palletsprojects.com/)
